@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **NabilaKhan211/NabilaKhan211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Nabila Khan
+👋 Heyy, I’m Nabila Khan
 
 💻 Backend Developer (Node.js, Express, PostgreSQL, MongoDB)
 
