@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 👋 Heyy, I’m Nabila Khan
 
-💻 Backend Developer (Node.js, Express, PostgreSQL, MongoDB)
+💻 Backend Developer (Node.js, Express, Python, MySQL,  MongoDB, PostgreSQL)
 
-🚀 Projects: Food Fusion, Chatbot, Error Catalog Library, etc.
+🚀 Projects: Rumeno, Rajlaxshmi, Gauswarn, Food Fusion, master trust, Sportseye, Chatbot, Error Catalog Library, etc.
 
 📫 Reach me at: nabirkhan1662@gmail.com
