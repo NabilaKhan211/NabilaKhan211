@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,python,mongodb,mysql,git,github" />
+<img src="https://skillicons.dev/icons?i=javascript,nodejs,express,python,mongodb,mysql,git,github,docker" />
 <img src="https://img.shields.io/badge/Zoho-FF0000?style=for-the-badge&logo=zoho&logoColor=white" height="40"/>
 <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white" height="40"/>
 </p>
