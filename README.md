@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 🚀 Projects: Rumeno, Rajlaxshmi, Gauswarn, Food Fusion, master trust, Sportseye, Chatbot, Error Catalog Library, etc.
 
-📫 Reach me at: nabirkhan1662@gmail.com
+📫 Reach me at: nabiLakhan111002@gmail.com
 
 ### 🌐 Connect with me:
 <p align="left">
